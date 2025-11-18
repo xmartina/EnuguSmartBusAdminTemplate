@@ -1,0 +1,11 @@
+canvas {
+  width: 100%;
+  max-height: 600px;
+}
+
+.sidebar-active {
+  transform: translateX(0) !important;
+}
+.overlay-active {
+  display: block;
+}
